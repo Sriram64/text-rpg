@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "maps.h"
 
 struct Player{
     int pHP;
